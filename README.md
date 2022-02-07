@@ -9,7 +9,8 @@ En el curso vimos:
 * trucos del profesor
 * Las personalidades de Freddy
 
-*Creado por CAMILO
-* incluye ejemplo en windows, linux y mac
+* Creado por CAMILO
+* Incluye ejemplo en windows, linux y mac
+* Disponible para todas las edades
 
 slds.
