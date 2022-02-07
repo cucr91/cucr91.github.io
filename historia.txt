@@ -6,5 +6,7 @@ el tiene 30 y vive en valparaiso
 
 master  1
 
+master 2
+
 saludos
 seguimos estudiando en platzi
