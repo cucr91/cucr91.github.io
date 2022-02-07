@@ -10,5 +10,6 @@ En el curso vimos:
 * Las personalidades de Freddy
 
 *Creado por CAMILO
+* incluye ejemplo en windows, linux y mac
 
 slds.
